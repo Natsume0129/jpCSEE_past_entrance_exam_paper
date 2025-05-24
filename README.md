@@ -1,5 +1,7 @@
 # jpCSEE Past Entrance Exam Paper Collection
 
+📘 [English Version](./README_en.md)
+
 本仓库收集并整理了日本大学大学院CSEE（主に jpCSEE）历年修士入学考试相关资料与试题，供学习与非商业用途研究参考。
 
 ## 📚 内容简介
